@@ -45,6 +45,30 @@ MonoBehaviour:
     m_Key: _Empezar
     m_Metadata:
       m_Items: []
+  - m_Id: 296004253499392
+    m_Key: _Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296316116779008
+    m_Key: _Guardar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296487739310080
+    m_Key: _Modo de juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296751611363328
+    m_Key: _Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296901733892096
+    m_Key: _Jugadores cooperativo local
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297235030065152
+    m_Key: _Jugadores cooperativo online
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

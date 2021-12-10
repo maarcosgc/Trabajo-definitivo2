@@ -46,5 +46,29 @@ MonoBehaviour:
     m_Localized: "\xA1Empezar!"
     m_Metadata:
       m_Items: []
+  - m_Id: 296004253499392
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296316116779008
+    m_Localized: Guardar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296487739310080
+    m_Localized: Selecciona un modo de juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296751611363328
+    m_Localized: Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296901733892096
+    m_Localized: Jugadores cooperativo local
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297235030065152
+    m_Localized: Jugadores cooperativo online
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -46,5 +46,29 @@ MonoBehaviour:
     m_Localized: Start!
     m_Metadata:
       m_Items: []
+  - m_Id: 296004253499392
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296316116779008
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296487739310080
+    m_Localized: Choose a game mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296751611363328
+    m_Localized: Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296901733892096
+    m_Localized: Players local coop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297235030065152
+    m_Localized: Players online coop
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
