@@ -11,9 +11,12 @@ public class ControlMenu : MonoBehaviour
     public GameObject Opciones;
     public GameObject Juego;
     public GameObject Records;
+    public GameObject PantallaJugar;
+    public GameObject PantallaSeleccionDeNave;
     public Button JugarB;
     public Button OpcionesB;
     public Button RecordsB;
+    public Button JugadorB;
     
     void Start()
     {
@@ -35,6 +38,8 @@ public class ControlMenu : MonoBehaviour
             Juego.SetActive(false);
             Opciones.SetActive(false);
             Records.SetActive(false);
+            PantallaJugar.SetActive(false);
+            PantallaSeleccionDeNave.SetActive(false);
             PantallaInicial.SetActive(true);
         }
 
@@ -58,5 +63,11 @@ public class ControlMenu : MonoBehaviour
         {
             PantallaInicial.SetActive(false);
             Records.SetActive(true);
+        }
+
+        public void ClickJugadorB()
+        {
+            PantallaJugar.SetActive(false);
+            PantallaSeleccionDeNave.SetActive(true);
         }
 }
